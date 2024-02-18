@@ -1,7 +1,7 @@
 import React, { useContext, useState } from "react";
 import { Link, useLocation, useNavigate } from "react-router-dom";
 
-import ytLogo from "../images/yt-logo.png";
+import ytLogo from "../images/y-tube logo.jpg";
 import ytLogoMobile from "../images/yt-logo-mobile.png";
 
 import { SlMenu } from "react-icons/sl";
@@ -53,14 +53,14 @@ const Header = () => {
             )}
           </div>
         )}
-        <Link to="/" className="flex h-5 items-center">
+        <Link to="/" className="flex h-14 items-center">
           <img
-            className="h-full hidden w-full dark:md:block  bg-black"
+            className="h-full hidden w-full dark:md:block"
             src={ytLogo}
             alt="Youtube"
           />
           <img
-            className="h-full md:hidden text-black"
+            className="h-7 md:hidden text-black"
             src={ytLogoMobile}
             alt="Youtube"
           />
