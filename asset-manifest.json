@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Yotube-Clone/static/css/main.7b33f247.css",
+    "main.js": "/Yotube-Clone/static/js/main.806bca81.js",
+    "reactPlayerPreview.js": "/Yotube-Clone/static/js/reactPlayerPreview.ca9b655f.chunk.js",
+    "static/media/yt-logo-mobile.png": "/Yotube-Clone/static/media/yt-logo-mobile.7e67cd801ac3213983ff.png",
+    "static/media/github-icon-512x497-oppthre2.png": "/Yotube-Clone/static/media/github-icon-512x497-oppthre2.d75803d5aeb1ffbad830.png",
+    "static/media/y-tube logo.jpg": "/Yotube-Clone/static/media/y-tube logo.2d2e0798d1564f6098f1.jpg",
+    "static/media/circle-linkedin-512.webp": "/Yotube-Clone/static/media/circle-linkedin-512.4c11b4693dd4eebca5be.webp",
+    "index.html": "/Yotube-Clone/index.html",
+    "main.7b33f247.css.map": "/Yotube-Clone/static/css/main.7b33f247.css.map",
+    "main.806bca81.js.map": "/Yotube-Clone/static/js/main.806bca81.js.map",
+    "reactPlayerPreview.ca9b655f.chunk.js.map": "/Yotube-Clone/static/js/reactPlayerPreview.ca9b655f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b33f247.css",
+    "static/js/main.806bca81.js"
+  ]
+}
